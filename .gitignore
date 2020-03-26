@@ -1,0 +1,11 @@
+.idea/
+.settings/
+target/
+.project
+*.iml
+*.md
+*.xml
+.classpath
+launch.json
+src/main/resources/onlineshop.dbonlineshop.db
+onlineshop.sqbpro
